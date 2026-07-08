@@ -8,8 +8,16 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20240264@goa.bits-pilani.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Samar-Talwar)
 
+<br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Samar-Talwar&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Samar-Talwar?style=for-the-badge&color=8b5cf6&labelColor=1e1b4b)
+![Stars](https://img.shields.io/github/stars/Samar-Talwar?style=for-the-badge&color=8b5cf6&labelColor=1e1b4b)
 
 </div>
 
@@ -19,6 +27,7 @@
 
 Building ML/AI systems from first principles — retrieval infrastructure, contrastive learning, and systems-level performance, not just framework calls.
 
+Recent: hybrid RAG over knowledge graphs · a from-scratch C++ vector database (HNSW/KD-Tree) · speech deep learning for accent classification · cross-modal satellite retrieval research (Triplet, InfoNCE, Smooth-AP).
 
 ```yaml
 focus: [Machine Learning, Systems Programming, RAG & Retrieval, Deep Learning]
