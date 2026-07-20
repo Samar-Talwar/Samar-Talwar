@@ -128,14 +128,14 @@ samartalwarzillion0001@gmail.com
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable the GitHub Action first.
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Samar-Talwar/Samar-Talwar/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img
+    alt="GitHub Contribution Activity"
+    src="https://raw.githubusercontent.com/Samar-Talwar/Samar-Talwar/output/github-contribution-grid-snake.svg"
+    width="850"
+  />
 </p>
 
 ---
