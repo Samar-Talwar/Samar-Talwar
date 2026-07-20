@@ -151,6 +151,16 @@ samartalwarzillion0001@gmail.com
 </p>
 
 ---
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Samar-Talwar&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
+-----
 
 <h2 align="center">⚡ Development Activity</h2>
 
