@@ -84,18 +84,52 @@ samartalwarzillion0001@gmail.com
 
 ---
 
-# 🛠 Languages & Tools
+<h2 align="center">🛠 Languages & Tools</h2>
 
-<p align="center">
+<h3 align="left">💻 Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,aws,docker,git,fastapi,flask,postgres,mysql,html,css,ts,figma,selenium,tensorflow,pytorch,opencv,anaconda,matlab,postman" />
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ts,html,css,bash" />
 </p>
 
-<p align="center">
+---
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama,pandas,numpy,jupyter,keras,streamlit,matplotlib"/>
+<h3 align="left">🤖 AI / Machine Learning</h3>
 
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,keras,scikitlearn,huggingface,transformers,langchain,ollama,opencv,librosa" />
+</p>
+
+---
+
+<h3 align="left">📊 Data Science & Visualization</h3>
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,jupyter,anaconda,streamlit" />
+</p>
+
+---
+
+<h3 align="left">🗄️ Databases & Vector Stores</h3>
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,sqlite,neo4j,chromadb,faiss" />
+</p>
+
+---
+
+<h3 align="left">⚙️ Backend & APIs</h3>
+
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,pydantic,uvicorn,postman" />
+</p>
+
+---
+
+<h3 align="left">🧰 Dev Tools</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,linux,aws,figma,matlab,selenium" />
 </p>
 
 ---
