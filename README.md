@@ -1,7 +1,7 @@
 # Hi 👋, I'm Samar Talwar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Machine+Learning+Researcher;Systems+Programmer;Building+LLMs,+AI+Infrastructure+%26+Research+Systems;BITS+Pilani,+Goa" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&center=true&vCenter=true&width=800&lines=Machine+Learning;Systems+Programming;AI+Infrastructure;Always+Learning"/>
 </p>
 
 <h3 align="center">
