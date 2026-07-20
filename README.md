@@ -118,12 +118,14 @@ samartalwarzillion0001@gmail.com
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">⚡ Development Activity</h2>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samar-Talwar&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    alt="GitHub Contribution Activity"
+    src="https://raw.githubusercontent.com/Samar-Talwar/Samar-Talwar/output/github-contribution-grid-snake-dark.svg"
+    width="850"
+  />
 </p>
 
 ---
